@@ -1,0 +1,3 @@
+https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/
+
+https://www.youtube.com/watch?v=O3b8lVF93jU
